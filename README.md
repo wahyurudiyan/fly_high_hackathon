@@ -8,4 +8,4 @@ In this project, need to add some package[s]:
   qr_code_scanner: ^0.0.12
 ```
 
-Note: This is the flutter library for 'qr_code_scanner' [Link link](https://pub.dev/packages/qr_code_scanner#-readme-tab-)
+Note: This is the flutter library for 'qr_code_scanner' [link](https://pub.dev/packages/qr_code_scanner#-readme-tab-)
