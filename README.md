@@ -7,3 +7,5 @@ In this project, need to add some package[s]:
   mqtt_client: ^5.5.4
   qr_code_scanner: ^0.0.12
 ```
+
+Note: This is the flutter library for 'qr_code_scanner' [Link link](https://pub.dev/packages/qr_code_scanner#-readme-tab-)
