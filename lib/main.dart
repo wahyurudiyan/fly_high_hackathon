@@ -14,11 +14,6 @@ void main() => runApp(MaterialApp(
   )
 );
 
-const flash_on = "FLASH ON";
-const flash_off = "FLASH OFF";
-const front_camera = "FRONT CAMERA";
-const back_camera = "BACK CAMERA";
-
 class QRViewExample extends StatefulWidget {
   const QRViewExample({
     Key key,
